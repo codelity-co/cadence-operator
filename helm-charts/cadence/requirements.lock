@@ -1,0 +1,9 @@
+dependencies:
+- name: cassandra
+  repository: https://kubernetes-charts-incubator.storage.googleapis.com/
+  version: 0.13.3
+- name: mysql
+  repository: https://kubernetes-charts.storage.googleapis.com/
+  version: 1.6.2
+digest: sha256:fa3bbfe194c12c56041423b594a456035b55445362162c342816716fa94fc5bc
+generated: 2020-01-08T12:20:13.204927454Z
